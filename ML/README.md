@@ -1,1 +1,1 @@
-
+Basic ML project implemenation, includes Linear Regression, Logistic Regression, Clustering(KMeans), PCA, Decision Trees - from scratch without using sklearn framework. also includes an openCV project in which i use object detection of a ball in a volleyball game
