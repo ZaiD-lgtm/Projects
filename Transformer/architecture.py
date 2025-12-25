@@ -8,7 +8,7 @@ import torch.nn.functional
 import csv
 from torch.utils.checkpoint import checkpoint
 
-# 500 million parameters
+# 650 million parameters
 vocab_size = 50257
 emd_dim = 1456
 n_layers = 20
